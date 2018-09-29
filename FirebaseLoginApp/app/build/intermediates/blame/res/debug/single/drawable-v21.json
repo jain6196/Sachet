@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

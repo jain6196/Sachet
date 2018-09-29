@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#B03060"
+        android:padding="12dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="81dp">
+
+        <TextView
+            android:id="@+id/text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Play the music"
+            android:textSize="48dp"
+            />
+
+        <Button
+            android:id="@+id/play"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Play"
+            android:textSize="18dp"
+            android:paddingBottom="12dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/rounded_button"
+            tools:textAllCaps="false"
+            android:gravity="center"/>
+        <Button
+            android:id="@+id/pause"
+            android:gravity="center"
+            android:textSize="18dp"
+            android:paddingBottom="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="Pause"
+            android:background="@drawable/rounded_button"
+            tools:textAllCaps="false" />
+        <Button
+            android:id="@+id/reset"
+            android:gravity="center"
+            android:textSize="18dp"
+            android:paddingBottom="12dp"
+            android:layout_marginBottom="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Reset"
+            android:background="@drawable/rounded_button"
+            tools:textAllCaps="false" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

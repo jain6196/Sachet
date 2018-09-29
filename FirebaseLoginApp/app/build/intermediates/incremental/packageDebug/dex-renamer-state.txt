@@ -1,0 +1,7 @@
+#Sun Aug 06 19:39:56 IST 2017
+base.0=/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_54480fc148927adb3df1a76ef3cd1baa1522d536
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7a111d103b1115c64ca23eebd0bbccc9097bd0f/classes.dex
+base.1=/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7a111d103b1115c64ca23eebd0bbccc9097bd0f
+file.0=/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_54480fc148927adb3df1a76ef3cd1baa1522d536/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

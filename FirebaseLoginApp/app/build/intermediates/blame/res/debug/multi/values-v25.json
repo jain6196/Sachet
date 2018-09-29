@@ -1,0 +1,172 @@
+[
+    {
+        "outputFile": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 82,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 82,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 82,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 82,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    }
+]

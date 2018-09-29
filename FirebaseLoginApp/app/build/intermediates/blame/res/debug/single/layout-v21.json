@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sj/Documents/MyAndroidProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sj/.android/build-cache/ae37f18a11bd78f6e2a880f4ba9bdbd079dc31ff/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/dhanushvenkatesh/AndroidStudioProjects/FirebaseLoginApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/dhanushvenkatesh/.android/build-cache/27644b395a0ed25bb41890e720ce5e73bd16bc39/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
