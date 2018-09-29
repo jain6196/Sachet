@@ -17,8 +17,8 @@ public class EmergencyContacts extends AppCompatActivity {
      Button Police; //Police
      Button Fire; //Fire
      Button Ambulance; //Ambulance
-    Button DisasterManagement; //Ambulance
-    Button WomenHelpline; //Ambulance
+     Button DisasterManagement; //Ambulance
+     Button WomenHelpline; //Ambulance
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

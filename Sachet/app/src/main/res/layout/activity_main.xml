@@ -31,21 +31,21 @@
         app:srcCompat="@drawable/crime" />
 
     <ImageButton
-        android:id="@+id/beAware"
+        android:id="@+id/beaware"
         android:layout_width="124dp"
         android:layout_height="123dp"
         android:layout_alignParentTop="true"
         android:layout_alignStart="@+id/emergency"
         android:layout_marginTop="174dp"
         android:scaleType="fitCenter"
-        app:srcCompat="@drawable/beAware" />
+        app:srcCompat="@drawable/beaware" />
 
     <ImageButton
         android:id="@+id/map"
         android:layout_width="124dp"
         android:layout_height="123dp"
         android:layout_alignStart="@+id/crime"
-        android:layout_alignTop="@+id/beAware"
+        android:layout_alignTop="@+id/beaware"
         android:scaleType="centerCrop"
         app:srcCompat="@drawable/mapped" />
 
@@ -60,13 +60,13 @@
         app:srcCompat="@drawable/help" />
 
     <ImageButton
-        android:id="@+id/knowyourlocatlity"
+        android:id="@+id/knowyourlocality"
         android:layout_width="124dp"
         android:layout_height="123dp"
         android:layout_alignParentEnd="true"
         android:layout_alignTop="@+id/help"
         android:layout_marginEnd="55dp"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/knowYourLocality" />
+        app:srcCompat="@drawable/knowyourlocality" />
 
 </RelativeLayout>
